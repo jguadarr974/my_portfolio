@@ -1,5 +1,4 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+## Welcome to my portfolio page 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
-
-## my_portfolio
+![DarkMode](https://user-images.githubusercontent.com/78454204/151302087-cb37598b-beba-4770-b09a-aae7e1e0ec94.jpg)
